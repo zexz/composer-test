@@ -1,7 +1,4 @@
 {
     "name": "zexz/composer-test",
-    "description": "Testing composer package publishing",
-    "require": {
-        "php": ">=7.0"
-    }
+    "description": "Testing composer package publishing"
 }
